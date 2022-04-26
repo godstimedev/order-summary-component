@@ -29,7 +29,7 @@
     margin: auto;
     width: 370px;
     height: auto;
-    margin-top: 5vh;
+    margin-top: 9vh;
     background-color: var(--Very-pale-blue);
     border-radius: 20px;
     box-shadow: 10px 10px 20px hsl(245, 75%, 52%, 0.1),
@@ -116,6 +116,7 @@
     font-weight: 700;
     font-size: 1rem;
     cursor: pointer;
+    margin-bottom: 30px;
   }
 }
 
