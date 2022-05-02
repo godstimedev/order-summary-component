@@ -17,7 +17,7 @@
 
 @media (min-width: 375px) {
   body {
-    max-height: 100vh;
+    height: 100vh;
     font-size: 16px;
     background-color: var(--Pale-blue);
     /* background: url(./images/pattern-background-mobile.svg); */
