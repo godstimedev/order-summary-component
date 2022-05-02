@@ -28,7 +28,7 @@
   .container {
     margin: auto;
     width: 370px;
-    height: auto;
+    max-height: 70vh;
     margin-top: 9vh;
     background-color: var(--Very-pale-blue);
     border-radius: 20px;
@@ -131,6 +131,8 @@
   font-size: 16px;
   text-align: center;
   padding: 5px;
+  bottom: 0;
+  position: fixed;
 }
 .attribution a {
   color: var(--Bright-blue);
